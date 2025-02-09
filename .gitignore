@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#file kiski gb bahut hai and so github pe upload noi karna cuz git ki limit hoti hai
+
+env/
+
+
 # C extensions
 *.so
 
